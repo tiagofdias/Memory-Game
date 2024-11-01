@@ -1,1 +1,1 @@
-# React + Vite Memory Game
+# React + Tailwind CSS + Vite Memory Game
